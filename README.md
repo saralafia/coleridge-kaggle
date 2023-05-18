@@ -1,5 +1,5 @@
 # Coleridge-Kaggle
-* [Kaggle competition](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/data)
+* Code for a [Kaggle competition](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/data) to detect data references in academic publications
 
 ## /data
 ### Files:
